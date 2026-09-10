@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rkymgs310-cmyk.github.io/saas-sakidori/sitemap.xml
